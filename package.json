@@ -11,7 +11,7 @@
   "dependencies": {
     "@strapi/admin": "4.12.1",
     "@strapi/design-system": "^1.8.2",
-    "@strapi/helper-plugin": "^4.12.1",
+    "@strapi/helper-plugin": "^4.9.2",
     "@strapi/icons": "^1.6.6",
     "immutability-helper": "^3.1.1",
     "lodash": "^4.17.11",
